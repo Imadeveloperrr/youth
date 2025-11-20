@@ -1,3 +1,10 @@
+<img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/dc4c3f7c-21bb-4392-9478-6e1b6dab207d" />
+
+
+<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/8984564c-626a-418c-b283-5423f45d1a33" />
+
+
+
 # 청년정책 올인원 – 48시간 해커톤 MVP
 
 자연어로 상황을 입력하면  
